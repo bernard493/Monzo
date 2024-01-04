@@ -1,2 +1,0 @@
-# Monzo
-Monzo Banking app
