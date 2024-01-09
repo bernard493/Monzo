@@ -118,6 +118,7 @@ const styles = StyleSheet.create({
     padding: Platform.OS === "ios" ? "5%" : "3%",
     columnGap: 100,
     flexDirection: "column",
+    // marginBottom:30
     // alignItems: "center",
   },
 });
